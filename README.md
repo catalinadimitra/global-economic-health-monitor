@@ -24,8 +24,6 @@ The dataset maps the following metrics across global economic zones from 2000 to
 
 ## Installation & Setup
 
-Ensure Python 3.9+ is installed on your local system environment.
-
 1. Clone the repository:
    git clone <your-repository-url>
 
